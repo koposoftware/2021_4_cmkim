@@ -172,7 +172,7 @@
                         		<li style="margin-left: 150px;">
                                     <a href="${ pageContext.request.contextPath }/account" style="color: #008B8B;">조회</a>
                                     <ul class="sub-menu">
-                                        <li><a href="${ pageContext.request.contextPath }/counseling" style="color: #008B8B;">전체계좌조회</a></li>
+                                        <li><a href="${ pageContext.request.contextPath }/counseling/${userVO.name}" style="color: #008B8B;">전체계좌조회</a></li>
                                         <li><a href="${ pageContext.request.contextPath }/portfolio/pdf" style="color: #008B8B;">내계좌조회</a></li>
                                         <li><a href="${ pageContext.request.contextPath }/portfolio/excel" style="color: #008B8B;">거래내역조회</a></li>
                                         <li><a href="${ pageContext.request.contextPath }/map" style="color: #008B8B;">거래중지/휴면계좌</a></li>
@@ -192,7 +192,7 @@
                                 <li>
                                     <a href="${ pageContext.request.contextPath }/product" style="color: #008B8B;">추천상품</a>
                                     <ul class="sub-menu">
-                                        <li><a href="corporate-about.jsp" style="color: #008B8B;">예금</a></li>
+                                        <li><a href="${ pageContext.request.contextPath }/adminPage" style="color: #008B8B;">예금</a></li>
                                         <li><a href="landing-page.jsp" style="color: #008B8B;">적금</a></li>
                                         <li><a href="corporate-videogallery.jsp" style="color: #008B8B;">펀드</a></li>
                                         <li><a href="corporate-testimonials.jsp" style="color: #008B8B;">방카슈랑스</a></li>
