@@ -1,54 +1,69 @@
-# 프로젝트 제목
+# Hana Solution (Lifecycle 맞춤 자산관리 추천서비스)
 
-[프로젝트 홈페이지 - https://koposoftware.github.io/template/](https://koposoftware.github.io/template/)
 
 # 1. 프로젝트 개요
 
-이것은 프로젝트 개요입니다. 글과 그림을 이용하여 개요를 설명하세요.
+   ## 1) Hana Solution이란?
+   <center><img src="project_intro.png" style="max-width:800px;"/><br></center>
+      
+   - <strong>__저출산 고령화__</strong></u> 문제로 길어진 노후관리에 있어 자산관리의 필요성은 연령대와 관계없이 크게 부각되고 있습니다.
+   - Hana Solution은 <strong>__초개인화 시대 오로지 당신 한 분만을 위한 맞춤형 자산관리 서비스__</strong>를 제공합니다.
+   - Lifecycle에 맞춘 자금설계와 개인데이터에 맞춘 소비내역 개선점을 시각적으로 알려줍니다. 
+   - 정기적인 관리를 통해 고객에게 끈끈한 파트너십과 신뢰를 제공합니다.
+   
+# 2. 프로젝트 목적
+   - 고객 개개인에 맞춘 맞춤형 자산관리 서비스를 제공한다.
+   - 누구나 쉽게 설계를 받고 관리할 수 있는 서비스를 제공한다.
+   - 지점과의 연계를 통해 잠재적인 고객과 소통한다.
+   <br>
 
-# 2. 프로젝트 제안서
+# 3. 프로젝트 제안서
 
-프로젝트 제안서를 설명하세요. 발표자료와 동영상을 추가하세요. 시스템의 아키텍쳐 설명도 추가하세요.
-
-   <img src="ppt.jpg"/>[발표자료](/project.pptx)<br>
-   <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/6LxbdIjWP04" frameborder="0"></iframe>
+   <a target="_blank" rel="noopener noreferrer" href="project_proposal.pdf">
+      <img src="project_proposal_img.png" style="max-width:800px;"></a><br>
+  <a href="project_proposal.pdf">발표자료</a>
  
+**사용 기술**
+ Spring MVC - 웹 애플리케이션 제작<br>
+ Java Mail Sender - 정기보고서 및 메일인증<br>
+ Spring Scheduler - 매일 저녁 6시 펀드 기준가 업데이트, 예약이체<br>
+ WebSocket - 실시간 채팅상담 및 지점상담예약<br>
+ Apache POI - 소비거래내역 엑셀 다운로드<br>
+ API - kakao링크 발송, Google Chart 그래프생성
+ 웹 크롤링 - 네이버금융 펀드내역, 하나은행 상품, 금융투자협회 공시 크롤링<br>
+ AJAX - 실시간 비동기통신<br>
 
-# 3. 프로젝트 결과
-프로젝트 결과를 추가하세요. 발표자료. 시연동영상을 추가하세요.
+**간트차트**
+
+<img src="GanttChart.png" style="max-width:800px;"></a><br>
+
+**아키텍처**
+
+<img src="Architecture.png" style="max-width:800px;"></a><br>
+<img src="pattern.png" style="max-width:900px;"></a><br>
+
+**ERD**
+
+<img src="ERD.PNG" style="max-width:800px;"></a><br>
+
+# 4. 프로젝트 결과
+
 
 ## 발표 ppt 
-   <img src="ppt.jpg"/>[발표자료](/최종발표ppt.pptx)<br>
+   <a target="_blank" rel="noopener noreferrer" href="final_presentation.pdf">
+      <img src="final_presentation_img.png" style="max-width:800px;"></a><br>
+  <a href="final_presentation.pdf">발표자료</a>
+ 
 
 ## 시연 동영상 
 
-   <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/6LxbdIjWP04" frameborder="0"></iframe>
+<a target="_blank" rel="noopener noreferrer" href="">
+<img src="" style="max-width:900px;">
+</a><br>
+
 
 # 4. 본인 소개
 
-본인 소개를 추가하세요
-
-|이름 |고길동|![gdKO](/gdko.jpg)|
-|연락처 | gdko(@)kopo.ac.kr|
-|skill set| Frontend - HTML, CSS, Javascript|
-| | Backend - Java, Spring, Oracle|
-|자격증|  |
-|수상| |
-|특기사항|  TOEIC 990 |
-
-# 5. 기타
-그외 프로젝트를 더욱 설명할수 있는 것들을 추가하세요
-
-# 홈페이지 설정
- 본인 repository에서 "Setting"를 들어가서 GitHub Pages에서 설정 변경.
-* Source
- Source에서 원하는 branch와 directory 설정한다. 
- 기본값은 master 에 root를 설정 
- Save 버튼 꼭 누른다.
- 
- * Theme Chooser
- theme을 변경하여 좀더 이쁜 홈페이지를 만든다.
-   
-   <img src="homepage.JPG"/><br>
-   
- 
+<a target="_blank" rel="noopener noreferrer" href="https://kim-chungman.github.io/">
+<img src="profile.png" style="max-width: 800px;">
+</a><br>
