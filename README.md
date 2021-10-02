@@ -18,7 +18,7 @@
 프로젝트 결과를 추가하세요. 발표자료. 시연동영상을 추가하세요.
 
 ## 발표 ppt 
-   <img src="ppt.jpg"/>[발표자료](/project.pptx)<br>
+   <img src="ppt.jpg"/>[발표자료](/김충만 Lifecycle 맞춤 자산관리 추천서비스.pdf)<br>
 
 ## 시연 동영상 
 
