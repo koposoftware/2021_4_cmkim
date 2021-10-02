@@ -4,7 +4,7 @@
 # 1. 프로젝트 개요
 
    ## 1) Hana Solution이란?
-   <center><img src="project_intro.png" style="max-width:800px;"/><br></center>
+   <center><img src="project_intro.png" style="width:800px;"/><br></center>
       
    - <strong>__저출산 고령화__</strong></u> 문제로 길어진 노후관리에 있어 자산관리의 필요성은 연령대와 관계없이 크게 부각되고 있습니다.
    - Hana Solution은 <strong>__초개인화 시대 오로지 당신 한 분만을 위한 맞춤형 자산관리 서비스__</strong>를 제공합니다.
@@ -20,7 +20,7 @@
 # 3. 프로젝트 제안서
 
    <a target="_blank" rel="noopener noreferrer" href="project_proposal.pdf">
-      <img src="project_proposal_img.png" style="max-width:800px;"></a><br>
+      <img src="project_proposal_img.png" style="width:800px;"></a><br>
   <a href="project_proposal.pdf">발표자료</a>
  
 **사용 기술**
@@ -35,35 +35,35 @@
 
 **간트차트**
 
-<img src="GanttChart.png" style="max-width:800px;"></a><br>
+<img src="GanttChart.png" style="width:800px;"></a><br>
 
 **아키텍처**
 
-<img src="Architecture.png" style="max-width:800px;"></a><br>
-<img src="pattern.png" style="max-width:900px;"></a><br>
+<img src="Architecture.png" style="width:800px;"></a><br>
+<img src="pattern.png" style="width:900px;"></a><br>
 
 **ERD**
 
-<img src="ERD.PNG" style="max-width:800px;"></a><br>
+<img src="ERD.PNG" style="width:800px;"></a><br>
 
 # 4. 프로젝트 결과
 
 
 ## 발표 ppt 
    <a target="_blank" rel="noopener noreferrer" href="final_presentation.pdf">
-      <img src="final_presentation_img.png" style="max-width:800px;"></a><br>
+      <img src="final_presentation_img.png" style="width:800px;"></a><br>
   <a href="final_presentation.pdf">발표자료</a>
  
 
 ## 시연 동영상 
 
 <a target="_blank" rel="noopener noreferrer" href="">
-<img src="" style="max-width:900px;">
+<img src="" style="width:900px;">
 </a><br>
 
 
 # 4. 본인 소개
 
 <a target="_blank" rel="noopener noreferrer" href="https://kim-chungman.github.io/">
-<img src="profile.png" style="max-width: 800px;">
+<img src="profile.png" style="width: 800px;">
 </a><br>
