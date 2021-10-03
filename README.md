@@ -36,16 +36,16 @@
 
 **간트차트**<br>
 
-<img src="GanttChart.png" style="width:800px;"></a><br>
+<img src="GanttChart.png" style="width:800px;"><br>
 
 **아키텍처**<br>
 
-<img src="Architecture.png" style="width:800px;"></a><br>
-<img src="pattern.png" style="width:900px;"></a><br>
+<img src="Architecture.png" style="width:800px;"><br>
+<img src="pattern.png" style="width:900px;"><br>
 
 **ERD**<br>
 
-<img src="ERD.PNG" style="width:800px;"></a><br>
+<img src="ERD.PNG" style="width:800px;"><br>
 
 # 4. 프로젝트 결과
 
