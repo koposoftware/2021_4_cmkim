@@ -23,7 +23,7 @@
       <img src="project_proposal_img.png" style="width:800px;"></a><br>
   <a href="project_proposal.pdf">발표자료</a>
  
-**사용 기술**
+**사용 기술**<br><br>
  Spring MVC - 웹 애플리케이션 제작<br>
  Java Mail Sender - 정기보고서 및 메일인증<br>
  Spring Scheduler - 매일 저녁 6시 펀드 기준가 업데이트, 예약이체<br>
@@ -33,16 +33,16 @@
  웹 크롤링 - 네이버금융 펀드내역, 하나은행 상품, 금융투자협회 공시 크롤링<br>
  AJAX - 실시간 비동기통신<br>
 
-**간트차트**
+**간트차트**<br>
 
 <img src="GanttChart.png" style="width:800px;"></a><br>
 
-**아키텍처**
+**아키텍처**<br>
 
 <img src="Architecture.png" style="width:800px;"></a><br>
 <img src="pattern.png" style="width:900px;"></a><br>
 
-**ERD**
+**ERD**<br>
 
 <img src="ERD.PNG" style="width:800px;"></a><br>
 
