@@ -1,5 +1,5 @@
 # Hana Solution (Lifecycle 맞춤 자산관리 추천서비스)
-[프로젝트 홈페이지](https://koposoftware.github.io/2021_4_cmkim/)
+[프로젝트 홈페이지 - https://koposoftware.github.io/2021_4_cmkim/](https://koposoftware.github.io/2021_4_cmkim/)
 
 # 1. 프로젝트 개요
 
