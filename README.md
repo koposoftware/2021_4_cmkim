@@ -3,7 +3,7 @@
 
 # 1. 프로젝트 개요
 
-   ## 1) Hana Solution이란?
+## 1) Hana Solution이란?
    <center><img src="project_intro.png" style="width:800px;"/><br></center>
       
    - <strong>__저출산 고령화__</strong></u> 문제로 길어진 노후관리에 있어 자산관리의 필요성은 연령대와 관계없이 크게 부각되고 있습니다.
