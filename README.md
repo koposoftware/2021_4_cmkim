@@ -22,8 +22,8 @@
    <a target="_blank" rel="noopener noreferrer" href="project_proposal.pdf">
       <img src="project_proposal_img.png" style="width:800px;"></a><br>
   <a href="project_proposal.pdf">발표자료</a>
- 
-**사용 기술**<br><br>
+ <br>
+**사용 기술**<br>
  Spring MVC - 웹 애플리케이션 제작<br>
  Java Mail Sender - 정기보고서 및 메일인증<br>
  Spring Scheduler - 매일 저녁 6시 펀드 기준가 업데이트, 예약이체<br>
