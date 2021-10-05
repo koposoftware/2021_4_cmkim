@@ -58,8 +58,8 @@
 
 ## 시연 동영상 
 
-<a target="_blank" rel="noopener noreferrer" href="">
-<img src="" style="width:900px;">
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=v5e0Nzi-6cw">
+<img src="https://www.youtube.com/watch?v=v5e0Nzi-6cw" style="width:900px;">
 </a><br>
 
 
