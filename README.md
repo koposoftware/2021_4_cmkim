@@ -3,10 +3,10 @@
 
 # 1. 프로젝트 개요
 
-   ## 1) Hana Solution이란?
+## 1) Hana Solution이란?
    <center><img src="project_intro.png" style="width:800px;"/><br></center>
       
-   - <strong>__저출산 고령화__</strong></u> 문제로 길어진 노후관리에 있어 자산관리의 필요성은 연령대와 관계없이 크게 부각되고 있습니다.
+   - <strong>__저출산 고령화__</strong> 문제로 길어진 노후관리에 있어 자산관리의 필요성은 연령대와 관계없이 크게 부각되고 있습니다.
    - Hana Solution은 <strong>__초개인화 시대 오로지 당신 한 분만을 위한 맞춤형 자산관리 서비스__</strong>를 제공합니다.
    - Lifecycle에 맞춘 자금설계와 개인데이터에 맞춘 소비내역 개선점을 시각적으로 알려줍니다. 
    - 정기적인 관리를 통해 고객에게 끈끈한 파트너십과 신뢰를 제공합니다.
@@ -24,7 +24,7 @@
   <a href="project_proposal.pdf">발표자료</a><br>
  <br>
  
-**사용기술**<br>
+**사용기술**<br><br>
  Spring MVC - 웹 애플리케이션 제작<br>
  Java Mail Sender - 정기보고서 및 메일인증<br>
  Spring Scheduler - 매일 저녁 6시 펀드 기준가 업데이트, 예약이체<br>
@@ -36,16 +36,16 @@
 
 **간트차트**<br>
 
-<img src="GanttChart.png" style="width:800px;"></a><br>
+<img src="GanttChart.png" style="width:800px;"><br>
 
 **아키텍처**<br>
 
-<img src="Architecture.png" style="width:800px;"></a><br>
-<img src="pattern.png" style="width:900px;"></a><br>
+<img src="Architecture.png" style="width:800px;"><br>
+<img src="pattern.png" style="width:900px;"><br>
 
 **ERD**<br>
 
-<img src="ERD.PNG" style="width:800px;"></a><br>
+<img src="ERD.PNG" style="width:800px;"><br>
 
 # 4. 프로젝트 결과
 
@@ -58,8 +58,8 @@
 
 ## 시연 동영상 
 
-<a target="_blank" rel="noopener noreferrer" href="">
-<img src="" style="width:900px;">
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=v5e0Nzi-6cw">
+<img src="https://www.youtube.com/watch?v=v5e0Nzi-6cw" style="width:900px;">
 </a><br>
 
 
